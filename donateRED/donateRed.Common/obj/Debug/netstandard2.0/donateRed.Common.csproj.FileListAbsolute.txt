@@ -1,0 +1,8 @@
+E:\DonateRED\donateRed.Common\bin\Debug\netstandard2.0\donateRed.Common.deps.json
+E:\DonateRED\donateRed.Common\bin\Debug\netstandard2.0\donateRed.Common.dll
+E:\DonateRED\donateRed.Common\bin\Debug\netstandard2.0\donateRed.Common.pdb
+E:\DonateRED\donateRed.Common\obj\Debug\netstandard2.0\donateRed.Common.csproj.CoreCompileInputs.cache
+E:\DonateRED\donateRed.Common\obj\Debug\netstandard2.0\donateRed.Common.AssemblyInfoInputs.cache
+E:\DonateRED\donateRed.Common\obj\Debug\netstandard2.0\donateRed.Common.AssemblyInfo.cs
+E:\DonateRED\donateRed.Common\obj\Debug\netstandard2.0\donateRed.Common.dll
+E:\DonateRED\donateRed.Common\obj\Debug\netstandard2.0\donateRed.Common.pdb

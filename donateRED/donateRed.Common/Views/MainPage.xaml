@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="donateRed.Common.Views.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection Title="about yourself" >
+                        <EntryCell Label="Name" Placeholder="how people call you" HorizontalTextAlignment="End" ></EntryCell>
+                        <EntryCell Label="Age" Keyboard="Numeric" Placeholder="eg 28" HorizontalTextAlignment="End"  ></EntryCell>
+                        <EntryCell Label="Mobile" Keyboard="Telephone" Placeholder="your mobile number" HorizontalTextAlignment="End" ></EntryCell>
+                        <EntryCell Label="Emergency" Keyboard="Telephone" Placeholder="emergency contact numner" HorizontalTextAlignment="End" ></EntryCell>
+                    </TableSection>
+                    <TableSection Title="app settings" >
+                        <SwitchCell Text="Notify me" />
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+    

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20630719264",
+    "firebase_url": "https://donate-red.firebaseio.com",
+    "project_id": "donate-red",
+    "storage_bucket": "donate-red.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20630719264:android:5044ae3f27cf8adb",
+        "android_client_info": {
+          "package_name": "com.donate.red"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20630719264-rafc5c7j3c7dnancs7053dfh97ektkep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArao_LFNQxlnTRXYQQDyb7bTbE8E2nXLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
